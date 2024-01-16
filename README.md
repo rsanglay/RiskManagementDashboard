@@ -6,16 +6,22 @@ Features:
 
 Portfolio Metrics:
 Displays key metrics related to the overall portfolio, including a pie chart of investments and profits.
+
 Portfolio Allocation:
 Visualizes the allocation of the portfolio across selected stocks.
+
 Stock Prices:
 Allows users to select stocks and view their historical closing prices over time.
+
 Stock Performance:
 Provides a bar chart and table summarizing the performance metrics for selected stocks.
+
 Value at Risk (VaR) Decomposition:
 Analyzes the VaR decomposition of selected stocks, considering market risk, credit risk, and liquidity risk.
+
 Combined Chart: Starting Balance, Profit, and Final Balance:
 Presents a combined bar chart showcasing the starting balance, profit, and final balance for selected stocks.
+
 Multifactor Scenarios:
 Enables users to run multifactor scenarios by selecting stocks, factors (e.g., interest rate, inflation rate), and specifying a percentage change.
 How to Run:
